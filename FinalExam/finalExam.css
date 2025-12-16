@@ -92,15 +92,15 @@ td {
 }
 header {
     position: relative;
+    width:100%;
 }
 
 header img#self{
+    display:block;
     max-height: 300px;
     max-width: 300px;
-    position:absolute;
-    top: 0px;
-    right: 0px;
     object-fit: contain;
+    float: right;
 }
 
 nav {
