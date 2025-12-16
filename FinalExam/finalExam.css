@@ -7,23 +7,24 @@ html{
 body {
     color: black;
     font-size: 16pt;
+    height:100%;
     width: 85%;
     margin: auto;
-    background-color:darkturquoise;
+    background-color: saddlebrown;
 }
 
 header h1 {
     font-size: 36pt;
     margin: 35px 0px 0px 0px;
     padding: 15px 0px 0px 15px;
-    background-color: lightskyblue;
+    background-color: peru;
 }
 
 header h3{
     font-size: 24pt;
     margin: 0px;
     padding: 0px 0px 15px 15px;
-    background-color: lightskyblue;
+    background-color:peru;
 }
 
 h1 {
@@ -33,7 +34,7 @@ h1 {
     letter-spacing: 2px;
     margin: 0px;
     padding: 15px 0px 0px 15px;
-    background-color:blue;
+    background-color:darkgoldenrod;
 }
 
 h3{
@@ -60,7 +61,7 @@ div#about{
     float: right;
     width: 75%;
     padding: 15px;
-    background-color: lightseagreen;
+    background-color: lightgoldenrodyellow;
 }
 
 
@@ -74,7 +75,7 @@ th {
     padding: 2px 5px;
     text-align: center;
     font-weight:bold;
-    background-color:deepskyblue;
+    background-color:goldenrod;
 }
 
 td {
@@ -97,13 +98,13 @@ header img#self{
 }
 
 nav {
-    background-color: lightskyblue;
+    background-color:peru;
     color: black;
-    width: 22%;
+    width: 23%;
     margin: 0px;
     padding: 0px;
     float: left;
-    height: 1010px;
+    height: 101vh;
 }
 
 nav ul {
@@ -111,14 +112,14 @@ nav ul {
 }
 
 section {
-    background-color:lightgray;
+    background-color:lightgoldenrodyellow;
     width: 75%;
     padding: 15px;
     float: right;
 }
 
 footer {
-    background-color: lightgray;
+    background-color: lightgoldenrodyellow;
     width: 100%;
     text-align:center;
 }
